@@ -1,0 +1,11 @@
+Client / RPC
+────────────
+  Account Blob + Proof ──────────┐
+                                 ▼
+Validator Runtime
+────────────────
+  [ Account Stub: Root Hash ] ←─ Compare Proof
+                                 │
+                                 ▼
+                    Transaction Execution
+                    
