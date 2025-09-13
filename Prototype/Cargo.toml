@@ -1,0 +1,9 @@
+[package]
+name = "account_witness_prototype"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha2 = "0.10"
+hex = "0.4"
+anyhow = "1.0"
